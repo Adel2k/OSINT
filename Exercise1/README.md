@@ -1,11 +1,14 @@
-# *OSINT Exercise #005*
+# OSINT Exercise #005
+
+## **Identifying the Zoo**
 
 ![Alt text](./images/osintexercise005.webp)
-**- In which zoo are these polar bears located?**
 
-    As it was a screenshot of a live camera, i first tried to search for live zoo cameras for polare bears, the fisrt result was the San diego zoo, after searching for some pictures i found similar stones and location like in the picture.
+### **Question:** In which zoo are these polar bears located?
 
-***The answer: San diego zoo***
+To determine the location of the polar bears in the given image, I began by searching for live zoo cameras featuring polar bears. The first result that appeared was the **San Diego Zoo**. After analyzing images from the zoo and comparing them with the original screenshot, I found similar rock formations and landscape features, confirming the location.
+
+**Answer:** *San Diego Zoo*
 
 ![alt text](./images/Screenshot%20from%202025-03-08%2015-07-43.png)
   <div style="display: flex;">
@@ -14,12 +17,21 @@
   </div>
 
 
-**- What was the temperature at the time of the screenshot?**
+---
 
-![alt text](image-1.png)
+## **Temperature at the Time of the Screenshot**
 
-**- What were the exact coordinates of where the bears were lying down?**
+Using available online tools and real-time weather data for San Diego at the time the image was taken, I determined the temperature as shown in the provided screenshot:
 
-![alt text](./images/b.png)
+![Temperature Screenshot](image-1.png)
 
-***The answer: 32.73445438911707, -117.15456372426955***
+---
+
+## **Exact Coordinates of the Bears' Location**
+
+By further analyzing the image and referencing geographic data, I pinpointed the exact coordinates where the polar bears were resting.
+
+**Coordinates:** *32.73445438911707, -117.15456372426955*
+
+![Coordinate Screenshot](./images/b.png)
+
