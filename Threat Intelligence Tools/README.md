@@ -115,3 +115,7 @@ For this task, we will use [PhishTool](https://app.phishtool.com/). Upload **Ema
 Copy the SHA-256 hash and open [Talos Intelligence](https://talosintelligence.com/) and check the reputation of the file.
 
 ![alt text](images/image-20.png)
+
+#### Questions and Answers
+
+![alt text](images/image-21.png)
